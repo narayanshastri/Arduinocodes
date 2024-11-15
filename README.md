@@ -1,4 +1,5 @@
 # Arduino Robotics and Sensor Control Projects  
+(All the codes were written and tested on a Arduino UNO R3)
 
 This repository contains a collection of beginner-friendly Arduino projects focusing on robotics and sensor-based control systems. Each project demonstrates the use of Arduino for real-world applications, including LED control, motor control, ultrasonic distance measurement, and Bluetooth-based robot control. The goal is to provide simple and modular examples to help others learn and experiment with Arduino programming and hardware integration.  
 

@@ -1,4 +1,5 @@
 # Arduino Ultrasonic Obstacle Detection and Motor Control  
+![Alt text](https://github.com/narayanshastri/Arduinocodes/blob/main/ObstacleAvoidanceRobot/IMG_20220219_135755.jpg)
 
 This project combines ultrasonic distance measurement with motor control, enabling a simple obstacle detection system for robotics applications. The system stops motor movement if an object is detected within a specified range (e.g., 100 cm) and resumes normal operation otherwise.  
 

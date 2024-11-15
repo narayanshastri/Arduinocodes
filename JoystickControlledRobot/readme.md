@@ -1,5 +1,5 @@
 # Arduino Bluetooth-Controlled Robot
-![Alt text]((https://github.com/narayanshastri/Arduinocodes/blob/main/JoystickControlledRobot/Tank.png)
+![Alt text](https://github.com/narayanshastri/Arduinocodes/blob/main/JoystickControlledRobot/Tank.png)
 This repository contains an Arduino sketch for controlling a robot using serial commands. The robot's movement can be directed forward, backward, left, or right through commands sent via a serial interface (e.g., Bluetooth or USB).
 
 ## Code Overview

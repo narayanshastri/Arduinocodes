@@ -16,7 +16,7 @@ This repository contains the following folders:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/narayanshastri/pole-climbing-robot.git
+   git clone https://github.com/narayanshastri/Arduinocodes/blob/main/Pole%20Climbing%20Robot
 Navigate to the folder of your choice (Bluetooth or Non-Bluetooth).
 Follow the setup instructions provided in the code comments to upload and run the program on your Arduino Uno.
 Features

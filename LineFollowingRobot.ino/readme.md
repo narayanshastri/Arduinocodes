@@ -66,4 +66,3 @@ Purpose
 This code is ideal for:
 	• Learning about basic robotics and line-following algorithms.
 	• Experimenting with Arduino-based motor and sensor control.
-![image](https://github.com/user-attachments/assets/d42b77c7-1af6-4958-8134-b91c75721c68)

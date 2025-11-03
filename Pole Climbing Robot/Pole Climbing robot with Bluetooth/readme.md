@@ -37,10 +37,10 @@ This project demonstrates controlling three DC motors using an Arduino and an Ad
 ```cpp
 #include <AFMotor.h>
 #include <SoftwareSerial.h>
-The AFMotor library controls the motors through the Adafruit Motor Shield.
+/*The AFMotor library controls the motors through the Adafruit Motor Shield.
 The SoftwareSerial library enables Bluetooth communication on custom pins.
 Pin Configuration
-Motor and Bluetooth pins are defined as:
+Motor and Bluetooth pins are defined as:*/
 
 #define motor1Pin1 2
 #define motor1Pin2 4
@@ -88,8 +88,8 @@ void stopMotors() {
     motor2.run(RELEASE);
     motor3.run(RELEASE);
 }
-Setup and Loop
-The setup initializes the motor pins and Bluetooth communication. The loop processes incoming Bluetooth commands:
+/*Setup and Loop
+The setup initializes the motor pins and Bluetooth communication. The loop processes incoming Bluetooth commands:*/
 
 
 void setup() {
@@ -134,6 +134,5 @@ void loop() {
 - Modify Bluetooth pins if required (ensure compatibility with your Arduino model).
 ## Prerequisites
 - Install the Adafruit Motor Shield and SoftwareSerial libraries in the Arduino IDE.
-## License
-This project is open-source and available under the MIT License. Feel free to use and modify it as needed.
+
 
